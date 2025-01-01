@@ -46,7 +46,11 @@ The application initializes with predefined customers, orders, and bookings:
    - Password: `admin`
 
 ## Screenshot of Application in Console
-
+<p align="center">
+  <img src="ManagerFeaturesSS/ManagerLogin.png" alt="Manager Login Example" width="400px" height="500px">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="ShopAdminFeaturesSS/AddingCustomer.png" alt="Adding Customer as Shop Admin Example" width="400px" height="500px">
+</p>
 
 ## Disclaimer
 This project was originally completed as an assignment and has been uploaded to GitHub at a later date due to limited OneDrive storage. As a result, the commit history may not accurately reflect the development process, and there may be only a few commits for the project.
