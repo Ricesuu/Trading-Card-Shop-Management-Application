@@ -48,7 +48,7 @@ The application initializes with predefined customers, orders, and bookings:
 ## Screenshot of Application in Console
 <p align="center">
   <img src="ManagerFeaturesSS/ManagerLogin.png" alt="Manager Login Example" width="400px" height="500px">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;
   <img src="ShopAdminFeaturesSS/AddingCustomer.png" alt="Adding Customer as Shop Admin Example" width="400px" height="500px">
 </p>
 
