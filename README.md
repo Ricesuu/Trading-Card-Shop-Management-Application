@@ -45,5 +45,8 @@ The application initializes with predefined customers, orders, and bookings:
    - Username: `admin`
    - Password: `admin`
 
+## Screenshot of Application in Console
+
+
 ## Disclaimer
 This project was originally completed as an assignment and has been uploaded to GitHub at a later date due to limited OneDrive storage. As a result, the commit history may not accurately reflect the development process, and there may be only a few commits for the project.
